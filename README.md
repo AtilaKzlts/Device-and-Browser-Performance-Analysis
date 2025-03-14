@@ -63,3 +63,6 @@ This project is designed to help web development teams identify issues across di
 
 ![image](https://github.com/AtilaKzlts/Device-and-Browser-Performance-Analysis/blob/main/assets/dashsnap_2.png)
 
+
+
+### [**Return to Portfolio**](https://github.com/AtilaKzlts/Atilla-Portfolio)
