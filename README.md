@@ -36,6 +36,8 @@ This project is designed to help web development teams identify issues across di
 
 ## **Steps**  
 
+![image](https://github.com/AtilaKzlts/Device-and-Browser-Performance-Analysis/blob/main/assets/diagram.svg)
+
 #### **1. Data Collection**  
 - Required web analytics data was retrieved from **Google Analytics 4 (GA4)** and stored in **BigQuery**.  
 - The dataset included **user interactions, traffic sources, session metrics, and engagement data**.  
