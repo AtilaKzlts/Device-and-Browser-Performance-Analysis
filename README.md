@@ -1,5 +1,6 @@
- ![image](https://github.com/AtilaKzlts/Snowflake-Streamlit/blob/main/assets/bar.png)
 
+
+![image](https://github.com/AtilaKzlts/Device-and-Browser-Performance-Analysis/blob/main/assets/diagram.svg)
 
 <div align="center">
   <h1>Web Development Insights: Device & Browser Performance</h1>
@@ -50,9 +51,10 @@ This project is designed to help web development teams identify issues across di
 | `ENGAGEMENT_RATE`      | Engagement rate (`ENGAGED_SESSIONS / SESSIONS * 100`).           |
 
 
+
 ## ▌ **Steps**  
 
-![image](https://github.com/AtilaKzlts/Device-and-Browser-Performance-Analysis/blob/main/assets/diagram.svg)
+
 
 #### **1. Data Collection**  
 - Required web analytics data was retrieved from **Google Analytics 4 (GA4)** and stored in **BigQuery**.  
