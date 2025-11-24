@@ -19,6 +19,8 @@
 
 ## ▌ Project Introduction
 
+*Who is having problems where and why?*
+
 This project is designed to help web development teams identify issues across different browsers and devices, optimize site performance, and enhance user experience. Using Google Analytics 4 (GA4) data, key metrics such as **bounce rate and average session duration** are analyzed and visualized through Looker to create a dashboard. This dashboard aims to support the development team in making data-driven decisions, gaining a deeper understanding of website performance across various devices and browsers, and implementing necessary improvements.
 
 ## ▌ Executive Summary
