@@ -1,11 +1,11 @@
 
-
-![image](https://github.com/AtilaKzlts/Device-and-Browser-Performance-Analysis/blob/main/assets/diagram.svg)
-
 <div align="center">
   <h1>Web Development Insights: Device & Browser Performance</h1>
  </p>
 </div>
+
+
+![image](https://github.com/AtilaKzlts/Device-and-Browser-Performance-Analysis/blob/main/assets/diagram.svg)
 
  
 ## ▌ Table of Contents
